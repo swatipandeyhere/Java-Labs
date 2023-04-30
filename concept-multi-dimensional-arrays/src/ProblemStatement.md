@@ -1,0 +1,1 @@
+The Indian Meteorological Department maintains a Rainfall Record of N cities for M days. It wishes to know the maximum rainfall received from the N cities each day. Write an algorithm to find the maximum rainfall received each day.
